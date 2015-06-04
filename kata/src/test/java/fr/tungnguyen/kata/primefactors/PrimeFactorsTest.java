@@ -6,7 +6,6 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-@SuppressWarnings("javadoc")
 public class PrimeFactorsTest {
 
     @Test
